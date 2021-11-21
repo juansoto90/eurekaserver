@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: eureka-server
+  cloud:
+    config:
+      #uri: https://p3-config-server.azurewebsites.net
+      uri: http://localhost:8090
